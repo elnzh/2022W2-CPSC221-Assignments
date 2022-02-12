@@ -1,4 +1,4 @@
-<h1>CPSC 221: Data Structures and Algorithms (2018 Winter)</h1>
+<h1>CPSC 221: Data Structures and Algorithms (2021W2)</h1>
 
 - [PA1](#PA1)
 - [PA2](#PA2)
